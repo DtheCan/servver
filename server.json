@@ -1,14 +1,16 @@
-[
+{
+  "coins": [
     {
       "name": "Bitcoin",
-      "price": 50000.50
+      "price": 50000.42
     },
     {
       "name": "Ethereum",
-      "price": 3000.75
+      "price": 3000.15
     },
     {
       "name": "Litecoin",
-      "price": 150.20
+      "price": 150.75
     }
   ]
+}
