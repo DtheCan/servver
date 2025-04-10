@@ -7,6 +7,38 @@
     {
       "name": "Ethereum",
       "price": 3000.15
+    },
+    {
+      "name": "Binance Coin",
+      "price": 350.75
+    },
+    {
+      "name": "Cardano",
+      "price": 0.45
+    },
+    {
+      "name": "Solana",
+      "price": 120.60
+    },
+    {
+      "name": "Ripple",
+      "price": 0.55
+    },
+    {
+      "name": "Polkadot",
+      "price": 6.80
+    },
+    {
+      "name": "Dogecoin",
+      "price": 0.12
+    },
+    {
+      "name": "Avalanche",
+      "price": 35.20
+    },
+    {
+      "name": "Polygon",
+      "price": 0.85
     }
   ]
 }
