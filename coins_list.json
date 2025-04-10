@@ -1,0 +1,74 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price": 50000.42,
+      "price_change_24h": 325.67
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price": 3000.15,
+      "price_change_24h": -45.23
+    },
+    {
+      "id": "binance-coin",
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "price": 350.75,
+      "price_change_24h": 12.34
+    },
+    {
+      "id": "cardano",
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price": 0.45,
+      "price_change_24h": -0.02
+    },
+    {
+      "id": "solana",
+      "name": "Solana",
+      "symbol": "SOL",
+      "price": 120.60,
+      "price_change_24h": 8.75
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "symbol": "XRP",
+      "price": 0.55,
+      "price_change_24h": 0.01
+    },
+    {
+      "id": "polkadot",
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price": 6.80,
+      "price_change_24h": -0.15
+    },
+    {
+      "id": "dogecoin",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price": 0.12,
+      "price_change_24h": 0.002
+    },
+    {
+      "id": "avalanche",
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price": 35.20,
+      "price_change_24h": 1.25
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "price": 0.85,
+      "price_change_24h": -0.03
+    }
+  ]
+}
