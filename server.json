@@ -1,44 +1,134 @@
 {
   "coins": [
     {
+      "id": "bitcoin",
       "name": "Bitcoin",
-      "price": 50000.42
+      "price": 50000.42,
+      "price_change_24h": 325.67,
+      "market_cap": 950000000000,
+      "volume_24h": 25000000000,
+      "description": "Первая децентрализованная цифровая валюта. Использует технологию блокчейн и алгоритм Proof-of-Work.",
+      "image": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "circulating_supply": 19000000,
+      "max_supply": 21000000,
+      "all_time_high": 69000
     },
     {
+      "id": "ethereum",
       "name": "Ethereum",
-      "price": 3000.15
+      "price": 3000.15,
+      "price_change_24h": -45.23,
+      "market_cap": 360000000000,
+      "volume_24h": 15000000000,
+      "description": "Платформа для смарт-контрактов и децентрализованных приложений. В 2022 перешла на Proof-of-Stake.",
+      "image": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "circulating_supply": 120000000,
+      "max_supply": null,
+      "all_time_high": 4865
     },
     {
+      "id": "binance-coin",
       "name": "Binance Coin",
-      "price": 350.75
+      "price": 350.75,
+      "price_change_24h": 12.34,
+      "market_cap": 55000000000,
+      "volume_24h": 800000000,
+      "description": "Нативная монета биржи Binance, используется для оплаты комиссий и участия в Launchpad.",
+      "image": "https://cryptologos.cc/logos/bnb-bnb-logo.png",
+      "circulating_supply": 157000000,
+      "max_supply": 200000000,
+      "all_time_high": 686
     },
     {
+      "id": "cardano",
       "name": "Cardano",
-      "price": 0.45
+      "price": 0.45,
+      "price_change_24h": -0.02,
+      "market_cap": 15000000000,
+      "volume_24h": 300000000,
+      "description": "Платформа третьего поколения с научным подходом к разработке. Использует алгоритм Ouroboros.",
+      "image": "https://cryptologos.cc/logos/cardano-ada-logo.png",
+      "circulating_supply": 35000000000,
+      "max_supply": 45000000000,
+      "all_time_high": 3.10
     },
     {
+      "id": "solana",
       "name": "Solana",
-      "price": 120.60
+      "price": 120.60,
+      "price_change_24h": 8.75,
+      "market_cap": 50000000000,
+      "volume_24h": 1200000000,
+      "description": "Высокопроизводительный блокчейн с поддержкой смарт-контрактов. Использует Proof-of-History.",
+      "image": "https://cryptologos.cc/logos/solana-sol-logo.png",
+      "circulating_supply": 420000000,
+      "max_supply": null,
+      "all_time_high": 260
     },
     {
+      "id": "ripple",
       "name": "Ripple",
-      "price": 0.55
+      "price": 0.55,
+      "price_change_24h": 0.01,
+      "market_cap": 29000000000,
+      "volume_24h": 900000000,
+      "description": "Платформа для банковских расчетов и денежных переводов. Использует консенсусный реестр (не блокчейн).",
+      "image": "https://cryptologos.cc/logos/xrp-xrp-logo.png",
+      "circulating_supply": 53000000000,
+      "max_supply": 100000000000,
+      "all_time_high": 3.40
     },
     {
+      "id": "polkadot",
       "name": "Polkadot",
-      "price": 6.80
+      "price": 6.80,
+      "price_change_24h": -0.15,
+      "market_cap": 8000000000,
+      "volume_24h": 200000000,
+      "description": "Протокол для взаимодействия блокчейнов. Позволяет создавать подключенные парачейны.",
+      "image": "https://cryptologos.cc/logos/polkadot-new-dot-logo.png",
+      "circulating_supply": 1200000000,
+      "max_supply": null,
+      "all_time_high": 55
     },
     {
+      "id": "dogecoin",
       "name": "Dogecoin",
-      "price": 0.12
+      "price": 0.12,
+      "price_change_24h": 0.002,
+      "market_cap": 16000000000,
+      "volume_24h": 400000000,
+      "description": "Мем-коин созданный как шутка. Получил популярность благодаря поддержке Илона Маска.",
+      "image": "https://cryptologos.cc/logos/dogecoin-doge-logo.png",
+      "circulating_supply": 140000000000,
+      "max_supply": null,
+      "all_time_high": 0.73
     },
     {
+      "id": "avalanche",
       "name": "Avalanche",
-      "price": 35.20
+      "price": 35.20,
+      "price_change_24h": 1.25,
+      "market_cap": 11000000000,
+      "volume_24h": 350000000,
+      "description": "Платформа для запуска децентрализованных приложений и кастомных блокчейн-сетей.",
+      "image": "https://cryptologos.cc/logos/avalanche-avax-logo.png",
+      "circulating_supply": 310000000,
+      "max_supply": 720000000,
+      "all_time_high": 144
     },
     {
+      "id": "polygon",
       "name": "Polygon",
-      "price": 0.85
+      "price": 0.85,
+      "price_change_24h": -0.03,
+      "market_cap": 7500000000,
+      "volume_24h": 180000000,
+      "description": "Решение для масштабирования Ethereum с помощью сайдчейнов и технологии Plasma.",
+      "image": "https://cryptologos.cc/logos/polygon-matic-logo.png",
+      "circulating_supply": 8800000000,
+      "max_supply": 10000000000,
+      "all_time_high": 2.92
     }
   ]
 }
