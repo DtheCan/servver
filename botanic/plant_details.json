@@ -23,7 +23,7 @@
     {
       "id": "102",
       "name": "Календула",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Calendula.png",
       "description": "Лекарственное растение с яркими оранжевыми цветами, обладающее антисептическими свойствами.",
       "benefits": [
         "Противовоспалительное действие",
@@ -43,7 +43,7 @@
     {
       "id": "103",
       "name": "Шалфей",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Sage.png",
       "description": "Лекарственное растение с серо-зелеными листьями и фиолетовыми цветами, известное своими целебными свойствами.",
       "benefits": [
         "Антибактериальное действие",
@@ -63,7 +63,7 @@
     {
       "id": "201",
       "name": "Валериана",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Valerian.png",
       "description": "Лекарственное растение с мелкими розовыми или белыми цветками, известное успокаивающим действием.",
       "benefits": [
         "Седативный эффект",
@@ -83,7 +83,7 @@
     {
       "id": "202",
       "name": "Пустырник",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Motherwort.png",
       "description": "Лекарственное растение с мелкими розовыми цветками, обладающее выраженным успокаивающим действием.",
       "benefits": [
         "Снижает артериальное давление",
@@ -103,7 +103,7 @@
     {
       "id": "203",
       "name": "Мята перечная",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Peppermint.png",
       "description": "Ароматное растение с освежающим вкусом, широко применяемое в медицине и кулинарии.",
       "benefits": [
         "Успокаивающий эффект",
@@ -123,7 +123,7 @@
     {
       "id": "301",
       "name": "Эхинацея",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Echinacea.png",
       "description": "Лекарственное растение с яркими цветами, известное иммуностимулирующими свойствами.",
       "benefits": [
         "Укрепляет иммунитет",
@@ -143,7 +143,7 @@
     {
       "id": "302",
       "name": "Женьшень",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Ginseng.png",
       "description": "Лекарственное растение с мощным адаптогенным действием, известное как 'корень жизни'.",
       "benefits": [
         "Повышает работоспособность",
@@ -163,7 +163,7 @@
     {
       "id": "303",
       "name": "Шиповник",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Rosehip.png",
       "description": "Кустарник с яркими плодами, богатыми витамином C, обладающий общеукрепляющим действием.",
       "benefits": [
         "Укрепляет иммунитет",
@@ -183,7 +183,7 @@
     {
       "id": "401",
       "name": "Мать-и-мачеха",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Coltsfoot.png",
       "description": "Лекарственное растение с желтыми цветками, эффективное при заболеваниях дыхательных путей.",
       "benefits": [
         "Отхаркивающее действие",
@@ -203,7 +203,7 @@
     {
       "id": "402",
       "name": "Подорожник",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Plantain.png",
       "description": "Лекарственное растение с широкими листьями, обладающее ранозаживляющими и отхаркивающими свойствами.",
       "benefits": [
         "Отхаркивающее действие",
@@ -223,7 +223,7 @@
     {
       "id": "403",
       "name": "Солодка",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Licorice.png",
       "description": "Лекарственное растение со сладким корнем, применяемое при заболеваниях дыхательных путей.",
       "benefits": [
         "Отхаркивающее действие",
@@ -243,7 +243,7 @@
     {
       "id": "501",
       "name": "Расторопша",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Milk_Thistle.png",
       "description": "Лекарственное растение с пестрыми листьями, известное гепатопротекторными свойствами.",
       "benefits": [
         "Защищает печень",
@@ -263,7 +263,7 @@
     {
       "id": "502",
       "name": "Бессмертник",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Immortelle.png",
       "description": "Лекарственное растение с яркими желтыми цветками, применяемое при заболеваниях печени и желчного пузыря.",
       "benefits": [
         "Желчегонное действие",
@@ -283,7 +283,7 @@
     {
       "id": "503",
       "name": "Одуванчик",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Dandelion.png",
       "description": "Лекарственное растение с желтыми цветками, обладающее желчегонными и мочегонными свойствами.",
       "benefits": [
         "Желчегонное действие",
@@ -303,7 +303,7 @@
     {
       "id": "601",
       "name": "Алоэ вера",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Aloe_Vera.png",
       "description": "Лекарственное растение с мясистыми листьями, известное ранозаживляющими и противовоспалительными свойствами.",
       "benefits": [
         "Ранозаживляющий эффект",
@@ -323,7 +323,7 @@
     {
       "id": "602",
       "name": "Зверобой",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/St._John's_Wort.png",
       "description": "Лекарственное растение с желтыми цветками, обладающее антисептическими и ранозаживляющими свойствами.",
       "benefits": [
         "Антисептическое действие",
@@ -343,7 +343,7 @@
     {
       "id": "603",
       "name": "Подорожник",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Plantain.png",
       "description": "Лекарственное растение с широкими листьями, известное ранозаживляющими и кровоостанавливающими свойствами.",
       "benefits": [
         "Ранозаживляющий эффект",
@@ -363,7 +363,7 @@
     {
       "id": "701",
       "name": "Толокнянка",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Bearberry.png",
       "description": "Лекарственное растение с мелкими листьями и красными ягодами, обладающее мочегонным и антисептическим действием.",
       "benefits": [
         "Мочегонный эффект",
@@ -383,7 +383,7 @@
     {
       "id": "702",
       "name": "Брусника (листья)",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Lingonberry_leaves.png",
       "description": "Лекарственное сырье с мочегонными и противовоспалительными свойствами, получаемое из листьев брусники.",
       "benefits": [
         "Мочегонный эффект",
@@ -403,7 +403,7 @@
     {
       "id": "703",
       "name": "Хвощ полевой",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Field_Horsetail.png",
       "description": "Лекарственное растение с членистыми стеблями, обладающее мочегонными и очищающими свойствами.",
       "benefits": [
         "Мочегонный эффект",
@@ -423,7 +423,7 @@
     {
       "id": "801",
       "name": "Душица",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Oregano.png",
       "description": "Ароматическое растение с мелкими розовыми цветками, обладающее спазмолитическими и успокаивающими свойствами.",
       "benefits": [
         "Спазмолитическое действие",
@@ -443,7 +443,7 @@
     {
       "id": "802",
       "name": "Лаванда",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Lavender.png",
       "description": "Ароматическое растение с фиолетовыми цветками, известное успокаивающими и антисептическими свойствами.",
       "benefits": [
         "Успокаивающий эффект",
@@ -463,7 +463,7 @@
     {
       "id": "803",
       "name": "Пижма",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Tansy.png",
       "description": "Лекарственное растение с желтыми цветками, обладающее антипаразитарными и спазмолитическими свойствами.",
       "benefits": [
         "Антипаразитарное действие",
@@ -483,7 +483,7 @@
     {
       "id": "901",
       "name": "Крапива двудомная",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Stinging_Nettle.png",
       "description": "Лекарственное растение с жгучими листьями, обладающее кровоостанавливающими и витаминными свойствами.",
       "benefits": [
         "Кровоостанавливающий эффект",
@@ -503,7 +503,7 @@
     {
       "id": "902",
       "name": "Тысячелистник",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Yarrow.png",
       "description": "Лекарственное растение с мелкими белыми цветками, известное кровоостанавливающими и противовоспалительными свойствами.",
       "benefits": [
         "Кровоостанавливающий эффект",
@@ -523,7 +523,7 @@
     {
       "id": "903",
       "name": "Горец перечный",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Water_Pepper.png",
       "description": "Лекарственное растение с жгучим вкусом, обладающее кровоостанавливающими и противовоспалительными свойствами.",
       "benefits": [
         "Кровоостанавливающий эффект",
@@ -543,7 +543,7 @@
     {
       "id": "1001",
       "name": "Сенна",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Senna.png",
       "description": "Лекарственное растение с желтыми цветками, известное сильным слабительным действием.",
       "benefits": [
         "Слабительный эффект",
@@ -563,7 +563,7 @@
     {
       "id": "1002",
       "name": "Крушина",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Buckthorn.png",
       "description": "Лекарственное растение с черными ягодами, обладающее мягким слабительным действием.",
       "benefits": [
         "Слабительный эффект",
@@ -583,7 +583,7 @@
     {
       "id": "1003",
       "name": "Лён (семена)",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Flax_seeds.png",
       "description": "Лекарственное сырье с обволакивающими и слабительными свойствами, получаемое из семян льна.",
       "benefits": [
         "Слабительный эффект",
