@@ -3,7 +3,7 @@
     {
       "id": "101",
       "name": "Ромашка аптечная",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/DtheCan/servver/refs/heads/master/botanic/Chamomile.svg",
       "description": "Лекарственное растение с мелкими цветками, широко применяемое в медицине и косметологии.",
       "benefits": [
         "Противовоспалительное действие",
